@@ -75,7 +75,7 @@ sudo rmmod monitor
 ### 1. Supervisor Running  
 Shows supervisor managing containers. 
 
-![Supervisor](images/img1.jpeg) 
+![Supervisor](boilerplate/images/img1.jpeg) 
 
 ---  
 
@@ -89,70 +89,70 @@ Shows two containers created.
 ### 3. Container Metadata (ps)  
 Shows container ID, PID and state. 
 
-![PS](images/img3.jpeg) 
+![PS](boilerplate/images/img3.jpeg) 
 
 ---  
 
 ### 4. Logs Output  
 Shows logging using IPC. 
 
-![Logs](images/img4.jpeg) 
+![Logs](boilerplate/images/img4.jpeg) 
 
 ---  
 
 ### 5. Stop Container  
 Shows container stop and update. 
 
-![Stop](images/img5.jpeg) 
+![Stop](boilerplate/images/img5.jpeg) 
 
 ---  
 
 ### 6. Memory Monitoring  
 Shows soft/hard limit behavior. 
 
-![Memory](images/img6.jpeg) 
+![Memory](boilerplate/images/img6.jpeg) 
 
 ---  
 
 ### 7. CPU Scheduling (top)  
 Shows CPU usage and scheduling behavior. 
 
-![Top](images/img7.jpeg) 
+![Top](boilerplate/images/img7.jpeg) 
 
 ---  
 
 ### 8. Build Output  
 Shows successful compilation using make. 
 
-![Build](images/img8.jpeg) 
+![Build](boilerplate/images/img8.jpeg) 
 
 ---  
 
 ### 9. Kernel Module Loaded  
 Shows device /dev/container_monitor. 
 
-![Kernel](images/img9.jpeg) 
+![Kernel](boilerplate/images/img9.jpeg) 
 
 ---  
 
 ### 10. Root Filesystem  
 Shows container rootfs structure. 
 
-![RootFS](images/img10.jpeg) 
+![RootFS](boilerplate/images/img10.jpeg) 
 
 ---  
 
 ### 11. Containers File  
 Shows stored container metadata. 
 
-![Meta](images/img11.jpeg) 
+![Meta](boilerplate/images/img11.jpeg) 
 
 ---  
 
 ### 12. Cleanup (No Zombie Processes)  
 Shows no defunct processes after execution. 
 
-![Cleanup](images/img12.jpeg) 
+![Cleanup](boilerplate/images/img12.jpeg) 
 
 ---  
 
