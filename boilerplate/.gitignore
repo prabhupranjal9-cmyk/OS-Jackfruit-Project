@@ -1,0 +1,24 @@
+# Build files
+*.o
+*.out
+*.mod
+*.mod.c
+*.order
+Module.symvers
+
+# Temp / unwanted
+mem*
+c*
+test
+test1
+screenshots
+
+# Rootfs (not needed in repo)
+rootfs-*
+
+# Tar files
+*.tar.gz
+
+# Binaries
+engine
+monitor.ko
