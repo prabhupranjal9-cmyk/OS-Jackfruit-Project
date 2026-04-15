@@ -1,111 +1,168 @@
 # Multi-Container Runtime
 
-A lightweight Linux container runtime in C with a long-running supervisor and a kernel-space memory monitor.
+## Team information
 
-Read [`project-guide.md`](project-guide.md) for the full project specification.
+- Pranjal A S Prabhu 
+- Sunil S 
 
----
 
-## Getting Started
+## Project Summary
 
-### 1. Fork the Repository
-
-1. Go to [github.com/shivangjhalani/OS-Jackfruit](https://github.com/shivangjhalani/OS-Jackfruit)
-2. Click **Fork** (top-right)
-3. Clone your fork:
-
-```bash
-git clone https://github.com/<your-username>/OS-Jackfruit.git
-cd OS-Jackfruit
-```
-
-### 2. Set Up Your VM
-
-You need an **Ubuntu 22.04 or 24.04** VM with **Secure Boot OFF**. WSL will not work.
-
-Install dependencies:
-
-```bash
-sudo apt update
-sudo apt install -y build-essential linux-headers-$(uname -r)
-```
-
-### 3. Run the Environment Check
-
-```bash
-cd boilerplate
-chmod +x environment-check.sh
-sudo ./environment-check.sh
-```
-
-Fix any issues reported before moving on.
-
-### 4. Prepare the Root Filesystem
-
-```bash
-mkdir rootfs-base
-wget https://dl-cdn.alpinelinux.org/alpine/v3.20/releases/x86_64/alpine-minirootfs-3.20.3-x86_64.tar.gz
-tar -xzf alpine-minirootfs-3.20.3-x86_64.tar.gz -C rootfs-base
-
-# Make one writable copy per container you plan to run
-cp -a ./rootfs-base ./rootfs-alpha
-cp -a ./rootfs-base ./rootfs-beta
-```
-
-Do not commit `rootfs-base/` or `rootfs-*` directories to your repository.
-
-### 5. Understand the Boilerplate
-
-The `boilerplate/` folder contains starter files:
-
-| File                   | Purpose                                             |
-| ---------------------- | --------------------------------------------------- |
-| `engine.c`             | User-space runtime and supervisor skeleton          |
-| `monitor.c`            | Kernel module skeleton                              |
-| `monitor_ioctl.h`      | Shared ioctl command definitions                    |
-| `Makefile`             | Build targets for both user-space and kernel module |
-| `cpu_hog.c`            | CPU-bound test workload                             |
-| `io_pulse.c`           | I/O-bound test workload                             |
-| `memory_hog.c`         | Memory-consuming test workload                      |
-| `environment-check.sh` | VM environment preflight check                      |
-
-Use these as your starting point. You are free to restructure the repository however you want — the submission requirements are listed in the project guide.
-
-### 6. Build and Verify
-
-```bash
-cd boilerplate
-make
-```
-
-If this compiles without errors, your environment is ready.
-
-### 7. GitHub Actions Smoke Check
-
-Your fork will inherit a minimal GitHub Actions workflow from this repository.
-
-That workflow only performs CI-safe checks:
-
-- `make -C boilerplate ci`
-- user-space binary compilation (`engine`, `memory_hog`, `cpu_hog`, `io_pulse`)
-- `./boilerplate/engine` with no arguments must print usage and exit with a non-zero status
-
-The CI-safe build command is:
-
-```bash
-make -C boilerplate ci
-```
-
-This smoke check does not test kernel-module loading, supervisor runtime behavior, or container execution.
+This project implements a lightweight Linux container runtime in C with a long-running supervisor and a kernel-space memory monitor. It supports multiple containers, process isolation, logging, and memory enforcement.
 
 ---
 
-## What to Do Next
+## Build and Run Instructions
 
-Read [`project-guide.md`](project-guide.md) end to end. It contains:
+# Install dependencies (IMPORTANT)
+sudo apt update  
+sudo apt install -y build-essential linux-headers-$(uname -r) 
 
-- The six implementation tasks (multi-container runtime, CLI, logging, kernel monitor, scheduling experiments, cleanup)
-- The engineering analysis you must write
-- The exact submission requirements, including what your `README.md` must contain (screenshots, analysis, design decisions)
+# Build  
+cd boilerplate 
+make 
 
-Your fork's `README.md` should be replaced with your own project documentation as described in the submission package section of the project guide. (As in get rid of all the above content and replace with your README.md)
+# Load kernel module  
+sudo insmod monitor.ko 
+
+# Verify device (IMPORTANT)
+ls -l /dev/container_monitor 
+
+# Start supervisor  
+sudo ./engine supervisor ./rootfs-base 
+
+# Create container rootfs  
+cp -a ./rootfs-base ./rootfs-alpha 
+cp -a ./rootfs-base ./rootfs-beta 
+
+# Start containers  
+sudo ./engine start alpha ./rootfs-alpha /bin/sh 
+sudo ./engine start beta ./rootfs-beta /bin/sh 
+
+# Check containers  
+sudo ./engine ps 
+
+# View logs  
+sudo ./engine logs alpha 
+
+# Stop container  
+sudo ./engine stop alpha 
+
+# Check kernel logs (IMPORTANT)
+dmesg | tail 
+
+# Unload module  
+sudo rmmod monitor 
+
+---
+
+## Demo Execution
+
+1. Start the supervisor process 
+2. Create container root filesystems 
+3. Launch multiple containers (alpha, beta) 
+4. Check running containers using `engine ps` 
+5. View logs using `engine logs alpha` 
+6. Monitor memory behavior using `dmesg | tail` 
+7. Observe CPU usage using `top` 
+8. Stop containers using `engine stop` 
+9. Verify no zombie processes using `ps aux | grep defunct` 
+
+---
+
+## Demo screenshots  
+
+### 1. Supervisor Running  
+Shows supervisor managing containers. 
+
+![Supervisor](images/img1.jpeg) 
+
+---  
+
+### 2. Multiple Containers Running  
+Shows two containers created. 
+
+![Containers](images/img2.jpeg) 
+
+---  
+
+### 3. Container Metadata (ps)  
+Shows container ID, PID and state. 
+
+![PS](images/img3.jpeg) 
+
+---  
+
+### 4. Logs Output  
+Shows logging using IPC. 
+
+![Logs](images/img4.jpeg) 
+
+---  
+
+### 5. Stop Container  
+Shows container stop and update. 
+
+![Stop](images/img5.jpeg) 
+
+---  
+
+### 6. Memory Monitoring  
+Shows soft/hard limit behavior. 
+
+![Memory](images/img6.jpeg) 
+
+---  
+
+### 7. CPU Scheduling (top)  
+Shows CPU usage and scheduling behavior. 
+
+![Top](images/img7.jpeg) 
+
+---  
+
+### 8. Build Output  
+Shows successful compilation using make. 
+
+![Build](images/img8.jpeg) 
+
+---  
+
+### 9. Kernel Module Loaded  
+Shows device /dev/container_monitor. 
+
+![Kernel](images/img9.jpeg) 
+
+---  
+
+### 10. Root Filesystem  
+Shows container rootfs structure. 
+
+![RootFS](images/img10.jpeg) 
+
+---  
+
+### 11. Containers File  
+Shows stored container metadata. 
+
+![Meta](images/img11.jpeg) 
+
+---  
+
+### 12. Cleanup (No Zombie Processes)  
+Shows no defunct processes after execution. 
+
+![Cleanup](images/img12.jpeg) 
+
+---  
+
+## Result  
+- Multiple containers executed successfully
+- Logs captured correctly 
+- Kernel module working 
+- No zombie processes observed 
+
+---  
+
+## Conclusion  
+This project demonstrates how container runtimes work using Linux system programming concepts like process isolation, IPC, and kernel monitoring.
