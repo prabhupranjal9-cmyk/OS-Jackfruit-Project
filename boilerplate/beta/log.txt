@@ -1,0 +1,15 @@
+BusyBox v1.36.1 (2024-06-10 07:11:47 UTC) multi-call binary.
+
+Usage: sleep [N]...
+
+Pause for a time equal to the total of the args given, where each arg can
+have an optional suffix of (s)econds, (m)inutes, (h)ours, or (d)ays
+exec failed: No such file or directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory

@@ -1,0 +1,26 @@
+BusyBox v1.36.1 (2024-06-10 07:11:47 UTC) multi-call binary.
+
+Usage: sleep [N]...
+
+Pause for a time equal to the total of the args given, where each arg can
+have an optional suffix of (s)econds, (m)inutes, (h)ours, or (d)ays
+allocation=1 chunk=50MB total=50MB
+allocation=2 chunk=50MB total=100MB
+allocation=3 chunk=50MB total=150MB
+allocation=4 chunk=50MB total=200MB
+allocation=1 chunk=50MB total=50MB
+allocation=2 chunk=50MB total=100MB
+allocation=3 chunk=50MB total=150MB
+allocation=4 chunk=50MB total=200MB
+exec failed: No such file or directory
+exec failed: No such file or directory
+exec failed: No such file or directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: No such file or directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
