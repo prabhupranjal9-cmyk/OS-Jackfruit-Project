@@ -82,7 +82,7 @@ Shows supervisor managing containers.
 ### 2. Multiple Containers Running  
 Shows two containers created. 
 
-![Containers](images/img2.jpeg) 
+![Containers](boilerplate/images/img2.jpeg) 
 
 ---  
 
