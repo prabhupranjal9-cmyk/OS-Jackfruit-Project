@@ -8,7 +8,7 @@ Module.symvers
 
 # Temp / unwanted
 mem*
-c*
+
 test
 test1
 screenshots
