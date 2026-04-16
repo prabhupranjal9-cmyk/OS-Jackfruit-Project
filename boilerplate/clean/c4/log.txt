@@ -1,0 +1,629 @@
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+cpu_hog alive elapsed=12 accumulator=9798796269384191307
+cpu_hog alive elapsed=1 accumulator=11292235153024014798
+cpu_hog alive elapsed=13 accumulator=17706722642453761588
+cpu_hog alive elapsed=2 accumulator=4029650378972033589
+cpu_hog alive elapsed=14 accumulator=16751424635097618857
+cpu_hog alive elapsed=3 accumulator=5094598323939763186
+cpu_hog alive elapsed=15 accumulator=1309046395204478515
+cpu_hog alive elapsed=4 accumulator=2846639923470102343
+cpu_hog alive elapsed=5 accumulator=16084936575821736156
+cpu_hog alive elapsed=16 accumulator=18013046146932661196
+cpu_hog alive elapsed=6 accumulator=11538569415214916094
+cpu_hog alive elapsed=17 accumulator=3043080111300107898
+cpu_hog alive elapsed=69 accumulator=1787363915392823116
+cpu_hog alive elapsed=80 accumulator=208908537680149468
+cpu_hog alive elapsed=81 accumulator=8567391576716924690
+cpu_hog alive elapsed=70 accumulator=16261273388796080867
+cpu_hog alive elapsed=71 accumulator=1037114005529941306
+cpu_hog alive elapsed=82 accumulator=9378725847476348707
+cpu_hog alive elapsed=83 accumulator=9775386333341902908
+cpu_hog alive elapsed=72 accumulator=16800871794217892247
+cpu_hog alive elapsed=84 accumulator=4708003936194518054
+cpu_hog alive elapsed=73 accumulator=16792242311886026671
+cpu_hog alive elapsed=85 accumulator=2085848283704795627
+cpu_hog alive elapsed=74 accumulator=17047868150337396980
+cpu_hog alive elapsed=75 accumulator=9735799835326012701
+cpu_hog alive elapsed=86 accumulator=15533803639503314202
+cpu_hog alive elapsed=87 accumulator=4170937687995525725
+cpu_hog alive elapsed=76 accumulator=14419342855992120120
+cpu_hog alive elapsed=77 accumulator=14558798407823658
+cpu_hog alive elapsed=88 accumulator=5974295719230051676
+cpu_hog alive elapsed=78 accumulator=14190777935963070708
+cpu_hog alive elapsed=89 accumulator=86215470455496559
+cpu_hog alive elapsed=79 accumulator=12943000518008590692
+cpu_hog alive elapsed=90 accumulator=6735225117404343309
+cpu_hog alive elapsed=80 accumulator=7558838897626470056
+cpu_hog alive elapsed=91 accumulator=11854548997866928891
+cpu_hog alive elapsed=92 accumulator=10437559741222690660
+cpu_hog alive elapsed=81 accumulator=17150291086487012342
+cpu_hog alive elapsed=82 accumulator=17802176090063107654
+cpu_hog alive elapsed=93 accumulator=11377446187728717579
+cpu_hog alive elapsed=94 accumulator=6757632086707433940
+cpu_hog alive elapsed=83 accumulator=7384427470470129517
+cpu_hog alive elapsed=84 accumulator=70957754860089107
+cpu_hog alive elapsed=95 accumulator=4445117072201879035
+cpu_hog alive elapsed=100 accumulator=9966071951468446820
+cpu_hog alive elapsed=89 accumulator=392066471355775358
+cpu_hog alive elapsed=101 accumulator=9749149613148511875
+cpu_hog alive elapsed=90 accumulator=5702362341852338499
+cpu_hog alive elapsed=239 accumulator=12528911843454819947
+cpu_hog alive elapsed=228 accumulator=6041031028976768151
+cpu_hog alive elapsed=238 accumulator=4817564654076049920
+cpu_hog alive elapsed=249 accumulator=12494248844555152671
+cpu_hog alive elapsed=411 accumulator=11862984004189549884
+cpu_hog alive elapsed=412 accumulator=17270146239574160054
+cpu_hog alive elapsed=421 accumulator=18080548564502559849
+cpu_hog alive elapsed=400 accumulator=14323440129108483344
+cpu_hog alive elapsed=401 accumulator=16359252379437603486
+cpu_hog alive elapsed=410 accumulator=16148070046190351611
+cpu_hog alive elapsed=411 accumulator=7404684167338970234
+cpu_hog alive elapsed=422 accumulator=9712326867901034290
+cpu_hog alive elapsed=412 accumulator=11986166814204562556
+cpu_hog alive elapsed=423 accumulator=9121991508389770993
+cpu_hog alive elapsed=413 accumulator=18159751709599529970
+cpu_hog alive elapsed=424 accumulator=6158203663904391713
+cpu_hog alive elapsed=1 accumulator=8098373437452074942
+cpu_hog alive elapsed=7 accumulator=11072734106231989449
+cpu_hog alive elapsed=8 accumulator=14631022012708651015
+cpu_hog alive elapsed=2 accumulator=13295902692677414781
+cpu_hog alive elapsed=3 accumulator=3115058809677312899
+cpu_hog alive elapsed=9 accumulator=16094872437812377008
+cpu_hog alive elapsed=4 accumulator=14194969788128330315
+cpu_hog alive elapsed=10 accumulator=5903930888361432117
+cpu_hog alive elapsed=24 accumulator=3396404495637933293
+cpu_hog alive elapsed=18 accumulator=18154078219336249863
+cpu_hog alive elapsed=25 accumulator=4428994479654702418
+cpu_hog alive elapsed=19 accumulator=15194851141614311832
+cpu_hog alive elapsed=26 accumulator=14450391554249178988
+cpu_hog alive elapsed=20 accumulator=15427665612929533899
+cpu_hog alive elapsed=29 accumulator=14090778731542425209
+cpu_hog alive elapsed=23 accumulator=15016766862990366010
+cpu_hog alive elapsed=30 accumulator=9972747565201222652
+cpu_hog alive elapsed=24 accumulator=9607926298102571664
+cpu_hog alive elapsed=31 accumulator=15496702978184653458
+cpu_hog alive elapsed=25 accumulator=841851084977102028
+cpu_hog alive elapsed=26 accumulator=2936493292322937177
+cpu_hog alive elapsed=32 accumulator=5927368181550849245
+cpu_hog alive elapsed=33 accumulator=3083142493623263030
+cpu_hog alive elapsed=27 accumulator=16190517656867902647
+cpu_hog alive elapsed=34 accumulator=16326757411926733394
+cpu_hog alive elapsed=28 accumulator=3295437202186446020
+cpu_hog alive elapsed=29 accumulator=14514898768211084355
+cpu_hog alive elapsed=35 accumulator=4811736543585931127
+cpu_hog alive elapsed=33 accumulator=13525876846245072792
+cpu_hog alive elapsed=39 accumulator=10435387543457702155
+cpu_hog alive elapsed=34 accumulator=12918619497917170678
+cpu_hog alive elapsed=40 accumulator=14826313104885573373
+cpu_hog alive elapsed=38 accumulator=5017772949335206502
+cpu_hog alive elapsed=44 accumulator=1870927140292893395
+cpu_hog alive elapsed=41 accumulator=6111105504189405765
+cpu_hog alive elapsed=47 accumulator=8017745513723063842
+cpu_hog alive elapsed=42 accumulator=17898408323826801121
+cpu_hog alive elapsed=48 accumulator=6569355663791487836
+cpu_hog alive elapsed=50 accumulator=18133670646647095312
+cpu_hog alive elapsed=44 accumulator=12195874917699694675
+cpu_hog alive elapsed=51 accumulator=13076161098884171073
+cpu_hog alive elapsed=45 accumulator=4976887782051621153
+cpu_hog alive elapsed=52 accumulator=8089098612091369753
+cpu_hog alive elapsed=46 accumulator=7462843369807437335
+cpu_hog alive elapsed=47 accumulator=16847712016990317637
+cpu_hog alive elapsed=53 accumulator=15982522850712293681
+cpu_hog alive elapsed=54 accumulator=12542474569697471973
+cpu_hog alive elapsed=48 accumulator=6699452479475236742
+cpu_hog alive elapsed=49 accumulator=16483389691792565715
+cpu_hog alive elapsed=55 accumulator=1413088484315799812
+cpu_hog alive elapsed=50 accumulator=3634545336842658692
+cpu_hog alive elapsed=56 accumulator=10400718939722754065
+cpu_hog alive elapsed=51 accumulator=5315414274401288825
+cpu_hog alive elapsed=57 accumulator=17299066718181107127
+cpu_hog alive elapsed=52 accumulator=10964287279069128871
+cpu_hog alive elapsed=58 accumulator=16010281420895183759
+cpu_hog alive elapsed=53 accumulator=10347601456299615535
+cpu_hog alive elapsed=59 accumulator=10555275453368974948
+cpu_hog alive elapsed=60 accumulator=11428373728015698157
+cpu_hog alive elapsed=54 accumulator=4446756991993140302
+cpu_hog alive elapsed=61 accumulator=3814192486525340762
+cpu_hog alive elapsed=55 accumulator=11828177220980785285
+cpu_hog alive elapsed=62 accumulator=9254481039638907282
+cpu_hog alive elapsed=56 accumulator=17959435845649504448
+cpu_hog alive elapsed=57 accumulator=10616592339219999403
+cpu_hog alive elapsed=63 accumulator=2921615865292265701
+cpu_hog alive elapsed=58 accumulator=8592727639977524025
+cpu_hog alive elapsed=64 accumulator=16780793044362146011
+cpu_hog alive elapsed=59 accumulator=7299263521330189209
+cpu_hog alive elapsed=65 accumulator=16315100500788512161
+cpu_hog alive elapsed=60 accumulator=8978157123493874425
+cpu_hog alive elapsed=66 accumulator=5884315851660664588
+cpu_hog alive elapsed=67 accumulator=1736821754470394248
+cpu_hog alive elapsed=61 accumulator=16316395333003615775
+cpu_hog alive elapsed=68 accumulator=13335236424474011577
+cpu_hog alive elapsed=62 accumulator=9886177239709045379
+cpu_hog alive elapsed=145 accumulator=484892463903559293
+cpu_hog alive elapsed=139 accumulator=1950148931409859256
+cpu_hog alive elapsed=146 accumulator=11431644011687623789
+cpu_hog alive elapsed=140 accumulator=6426427196412485446
+cpu_hog alive elapsed=141 accumulator=6447412889478979703
+cpu_hog alive elapsed=147 accumulator=5956167799998586981
+cpu_hog alive elapsed=142 accumulator=4209771195137875715
+cpu_hog alive elapsed=148 accumulator=9577919414617557157
+cpu_hog alive elapsed=143 accumulator=14083329547824232131
+cpu_hog alive elapsed=149 accumulator=11167009058641591604
+cpu_hog alive elapsed=144 accumulator=5015867237572561161
+cpu_hog alive elapsed=150 accumulator=13993363846734958276
+cpu_hog alive elapsed=12 accumulator=3766758239601155225
+cpu_hog alive elapsed=5 accumulator=4589781632611964710
+cpu_hog alive elapsed=8 accumulator=8258083242573829343
+cpu_hog alive elapsed=15 accumulator=6959052588009368135
+cpu_hog alive elapsed=16 accumulator=14778307333030842072
+cpu_hog alive elapsed=9 accumulator=3367419638236597778
+cpu_hog alive elapsed=10 accumulator=17183622319061336687
+cpu_hog alive elapsed=17 accumulator=1229875541918277204
+cpu_hog alive elapsed=18 accumulator=15353447197262361477
+cpu_hog alive elapsed=11 accumulator=14130224934336429968
+cpu_hog alive elapsed=20 accumulator=14921449789400434337
+cpu_hog alive elapsed=13 accumulator=7763068945732607623
+cpu_hog alive elapsed=21 accumulator=571612023406796231
+cpu_hog alive elapsed=14 accumulator=6016786792035095168
+cpu_hog alive elapsed=15 accumulator=12542391536127946691
+cpu_hog alive elapsed=22 accumulator=18445732985470601040
+cpu_hog alive elapsed=18 accumulator=291327405922440248
+cpu_hog alive elapsed=25 accumulator=3240970570574486753
+cpu_hog alive elapsed=23 accumulator=3695714795157123087
+cpu_hog alive elapsed=30 accumulator=5897121745776600450
+cpu_hog alive elapsed=62 accumulator=15342077197053206399
+cpu_hog alive elapsed=55 accumulator=2586666135600352186
+cpu_hog alive elapsed=238 accumulator=1959619726897754544
+cpu_hog alive elapsed=231 accumulator=460349835291907838
+cpu_hog alive elapsed=239 accumulator=4826377884306193408
+cpu_hog alive elapsed=232 accumulator=14512647982766897468
+cpu_hog alive elapsed=240 accumulator=3075787708828706408
+cpu_hog alive elapsed=233 accumulator=12787292599599628154
+cpu_hog alive elapsed=234 accumulator=17140983482603817937
+cpu_hog alive elapsed=241 accumulator=10075262653292524767
+cpu_hog alive elapsed=242 accumulator=17835811762692222158
+cpu_hog alive elapsed=235 accumulator=6679492186371368878
+cpu_hog alive elapsed=243 accumulator=4718433674534129677
+cpu_hog alive elapsed=236 accumulator=13408346410560623868
+cpu_hog alive elapsed=237 accumulator=17870458733066747676
+cpu_hog alive elapsed=244 accumulator=4568168426477029938
+cpu_hog alive elapsed=245 accumulator=14862079192125588088
+cpu_hog alive elapsed=238 accumulator=15079875497382176979
+cpu_hog alive elapsed=239 accumulator=16862073004336523343
+cpu_hog alive elapsed=246 accumulator=5051285322821736063
+cpu_hog alive elapsed=247 accumulator=4447529239252430636
+cpu_hog alive elapsed=240 accumulator=2212848412234225879
+cpu_hog alive elapsed=241 accumulator=17988233933688799545
+cpu_hog alive elapsed=248 accumulator=5563045397625319103
+cpu_hog alive elapsed=249 accumulator=1642209753753992523
+cpu_hog alive elapsed=242 accumulator=17764316231703641768
+cpu_hog alive elapsed=250 accumulator=3221806249990979519
+cpu_hog alive elapsed=243 accumulator=3861061304688429301
+cpu_hog alive elapsed=244 accumulator=12006480887429473859
+cpu_hog alive elapsed=251 accumulator=535720025502529073
+cpu_hog alive elapsed=245 accumulator=7603501940607583118
+cpu_hog alive elapsed=252 accumulator=11397744541486080682
+cpu_hog alive elapsed=246 accumulator=17233893189699875193
+cpu_hog alive elapsed=253 accumulator=9748397340614831367
+cpu_hog alive elapsed=247 accumulator=2809522053122642251
+cpu_hog alive elapsed=254 accumulator=16799785644744178347
+cpu_hog alive elapsed=248 accumulator=4514431453876854347
+cpu_hog alive elapsed=255 accumulator=5816952510383522522
+cpu_hog alive elapsed=256 accumulator=11658680293171496640
+cpu_hog alive elapsed=249 accumulator=17715731203446937440
+cpu_hog alive elapsed=250 accumulator=28763250258001825
+cpu_hog alive elapsed=257 accumulator=16619373429452893462
+cpu_hog alive elapsed=251 accumulator=14304556271596674106
+cpu_hog alive elapsed=258 accumulator=8374177819136427914
+cpu_hog alive elapsed=253 accumulator=11951079914343130305
+cpu_hog alive elapsed=260 accumulator=11587123865308963043
+cpu_hog alive elapsed=376 accumulator=10183961236312434196
+cpu_hog alive elapsed=369 accumulator=16118365567900406024
+cpu_hog alive elapsed=370 accumulator=891761015225638192
+cpu_hog alive elapsed=377 accumulator=4178171635780888330
+cpu_hog alive elapsed=371 accumulator=15611742516676898234
+cpu_hog alive elapsed=378 accumulator=15678486115421662475
+cpu_hog alive elapsed=372 accumulator=13196090773077489513
+cpu_hog alive elapsed=379 accumulator=15933135877908163655
+cpu_hog alive elapsed=7 accumulator=8128693757097595935
+cpu_hog alive elapsed=14 accumulator=15434211409256998073
+cpu_hog alive elapsed=81 accumulator=16948482124575532128
+cpu_hog alive elapsed=91 accumulator=18206781301005704322
+cpu_hog alive elapsed=98 accumulator=3416802369892598260
+cpu_hog alive elapsed=155 accumulator=1240841375739788289
+cpu_hog alive elapsed=148 accumulator=17814729144129009180
+cpu_hog alive elapsed=149 accumulator=1113539009465973978
+cpu_hog alive elapsed=156 accumulator=648607475962237475
+cpu_hog alive elapsed=157 accumulator=14314493618595787458
+cpu_hog alive elapsed=150 accumulator=6238558702594193826
+cpu_hog alive elapsed=160 accumulator=16736188048540322281
+cpu_hog alive elapsed=153 accumulator=16767095400631060511
+cpu_hog alive elapsed=162 accumulator=9639908916993374742
+cpu_hog alive elapsed=155 accumulator=9246775909198736703
+cpu_hog alive elapsed=157 accumulator=4528738154118600486
+cpu_hog alive elapsed=164 accumulator=999966649854318390
+cpu_hog alive elapsed=158 accumulator=6552118536475348548
+cpu_hog alive elapsed=165 accumulator=4634071346441017835
+cpu_hog alive elapsed=159 accumulator=10692017730135979097
+cpu_hog alive elapsed=166 accumulator=2530402810956964717
+cpu_hog alive elapsed=160 accumulator=4948625234239461739
+cpu_hog alive elapsed=167 accumulator=7170175498350025060
+cpu_hog alive elapsed=161 accumulator=15218893017956158804
+cpu_hog alive elapsed=168 accumulator=16791739218664011949
+cpu_hog alive elapsed=162 accumulator=1960424898658404110
+cpu_hog alive elapsed=169 accumulator=6395706650195019447
+cpu_hog alive elapsed=163 accumulator=11826769863539491708
+cpu_hog alive elapsed=170 accumulator=14132184493837538281
+cpu_hog alive elapsed=171 accumulator=10086623732077777129
+cpu_hog alive elapsed=164 accumulator=10030447683476544152
+cpu_hog alive elapsed=165 accumulator=10751522488148167139
+cpu_hog alive elapsed=172 accumulator=16665784626399932593
+cpu_hog alive elapsed=166 accumulator=4801272572909294374
+cpu_hog alive elapsed=173 accumulator=16917342056026622463
+cpu_hog alive elapsed=167 accumulator=1212396644530552661
+cpu_hog alive elapsed=174 accumulator=681870792989745293
+cpu_hog alive elapsed=168 accumulator=2567783245832527230
+cpu_hog alive elapsed=175 accumulator=9949209133707922256
+cpu_hog alive elapsed=169 accumulator=10858729146496508274
+cpu_hog alive elapsed=176 accumulator=7642872995010655542
+cpu_hog alive elapsed=177 accumulator=2354706666851536588
+cpu_hog alive elapsed=170 accumulator=12086493780976008326
+cpu_hog alive elapsed=178 accumulator=5752220618236220218
+cpu_hog alive elapsed=171 accumulator=18367445454197785043
+cpu_hog alive elapsed=172 accumulator=5330238559674638826
+cpu_hog alive elapsed=179 accumulator=2094014866318265932
+cpu_hog alive elapsed=180 accumulator=6858896831008601235
+cpu_hog alive elapsed=173 accumulator=17077371005953807196
+cpu_hog alive elapsed=174 accumulator=17492688285604665114
+cpu_hog alive elapsed=181 accumulator=1712082758759355348
+cpu_hog alive elapsed=175 accumulator=18415235314627752598
+cpu_hog alive elapsed=182 accumulator=12130551222481949118
+cpu_hog alive elapsed=176 accumulator=1137047585986005917
+cpu_hog alive elapsed=183 accumulator=8238392246975859227
+cpu_hog alive elapsed=177 accumulator=2113146889079984202
+cpu_hog alive elapsed=184 accumulator=7470867386382276021
+cpu_hog alive elapsed=178 accumulator=6318650619650862409
+cpu_hog alive elapsed=185 accumulator=14844386715011659234
+cpu_hog alive elapsed=179 accumulator=3821636047329084364
+cpu_hog alive elapsed=186 accumulator=16369802066797452845
+cpu_hog alive elapsed=188 accumulator=16713852781689357144
+cpu_hog alive elapsed=181 accumulator=3375365464366637772
+cpu_hog alive elapsed=182 accumulator=14557404168723691222
+cpu_hog alive elapsed=189 accumulator=11800084355988769831
+cpu_hog alive elapsed=190 accumulator=12794346254615688111
+cpu_hog alive elapsed=183 accumulator=12308080344134605757
+cpu_hog alive elapsed=191 accumulator=13377589812746349878
+cpu_hog alive elapsed=184 accumulator=3548495239093560705
+cpu_hog alive elapsed=192 accumulator=14913791829965039833
+cpu_hog alive elapsed=185 accumulator=10503123231133358570
+cpu_hog alive elapsed=193 accumulator=9973620067472033456
+cpu_hog alive elapsed=186 accumulator=353414457317958652
+cpu_hog alive elapsed=194 accumulator=5693191169723531150
+cpu_hog alive elapsed=187 accumulator=6845320352414548197
+cpu_hog alive elapsed=195 accumulator=12712925225219508684
+cpu_hog alive elapsed=188 accumulator=13961742650608226313
+cpu_hog alive elapsed=196 accumulator=2102043582111470895
+cpu_hog alive elapsed=189 accumulator=2159256210556176020
+cpu_hog alive elapsed=190 accumulator=5217418073621178919
+cpu_hog alive elapsed=197 accumulator=4776201057908519158
+cpu_hog alive elapsed=198 accumulator=14887627494653103439
+cpu_hog alive elapsed=191 accumulator=14488543643248293026
+cpu_hog alive elapsed=192 accumulator=8796916092892458339
+cpu_hog alive elapsed=199 accumulator=13263807012619657170
+cpu_hog alive elapsed=200 accumulator=11890011534727948575
+cpu_hog alive elapsed=193 accumulator=14026812131939423240
+cpu_hog alive elapsed=194 accumulator=6025321939757056264
+cpu_hog alive elapsed=201 accumulator=14346789224946656262
+cpu_hog alive elapsed=195 accumulator=1264137632701028831
+cpu_hog alive elapsed=202 accumulator=7333525097767108884
+cpu_hog alive elapsed=203 accumulator=7081051174632794064
+cpu_hog alive elapsed=196 accumulator=13549859295143874917
+cpu_hog alive elapsed=204 accumulator=16227013933918347751
+cpu_hog alive elapsed=197 accumulator=10720964864541300712
+cpu_hog alive elapsed=201 accumulator=5019248967771763090
+cpu_hog alive elapsed=208 accumulator=10327312931311578642
+cpu_hog alive elapsed=215 accumulator=2747422936836395558
+cpu_hog alive elapsed=208 accumulator=18261024921796834438
+cpu_hog alive elapsed=378 accumulator=7118039622814272839
+cpu_hog alive elapsed=385 accumulator=9800723124193403829
+cpu_hog alive elapsed=386 accumulator=4898415332394664500
+cpu_hog alive elapsed=379 accumulator=14782181377261662006
+cpu_hog alive elapsed=380 accumulator=3588574718477710516
+cpu_hog alive elapsed=387 accumulator=7407749052848566641
+cpu_hog alive elapsed=381 accumulator=8091672974847051306
+cpu_hog alive elapsed=388 accumulator=6274785604817922617
+cpu_hog alive elapsed=389 accumulator=9236908795287132847
+cpu_hog alive elapsed=382 accumulator=3684169879194649857
+cpu_hog alive elapsed=390 accumulator=12995020990363551124
+cpu_hog alive elapsed=383 accumulator=10560234966344496101
+cpu_hog alive elapsed=384 accumulator=18121069727502984800
+cpu_hog alive elapsed=391 accumulator=11265066209520893721
+cpu_hog alive elapsed=392 accumulator=15772892897615219597
+cpu_hog alive elapsed=385 accumulator=14586285000673702010
+cpu_hog alive elapsed=393 accumulator=15536561356038574667
+cpu_hog alive elapsed=386 accumulator=3957449959531692630
+cpu_hog alive elapsed=388 accumulator=16049482907508501805
+cpu_hog alive elapsed=395 accumulator=11764690890475491146
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    cpu_hog alive elapsed=9 accumulator=9636819710425898662
+cpu_hog alive elapsed=17 accumulator=6435806155037957604
+cpu_hog alive elapsed=158 accumulator=911982980574270451
+cpu_hog alive elapsed=150 accumulator=2130790401824649629
+cpu_hog alive elapsed=159 accumulator=15912061730089416200
+cpu_hog alive elapsed=151 accumulator=17240533711813273850
+cpu_hog alive elapsed=154 accumulator=4758514288083726209
+cpu_hog alive elapsed=162 accumulator=5299913375741065028
+cpu_hog alive elapsed=156 accumulator=1868317979435411045
+cpu_hog alive elapsed=164 accumulator=1463015523125592335
+cpu_hog alive elapsed=167 accumulator=1240812141707216516
+cpu_hog alive elapsed=159 accumulator=15950143166734505345
+cpu_hog alive elapsed=168 accumulator=2129234114532103451
+cpu_hog alive elapsed=160 accumulator=261742484497322713
+cpu_hog alive elapsed=169 accumulator=3736276028630909200
+cpu_hog alive elapsed=161 accumulator=12159818675738166840
+cpu_hog alive elapsed=170 accumulator=4785669667052433301
+cpu_hog alive elapsed=162 accumulator=4143937496506000166
+cpu_hog alive elapsed=171 accumulator=13813376901404633899
+cpu_hog alive elapsed=163 accumulator=1202852530250029351
+cpu_hog alive elapsed=174 accumulator=3178572573196878766
+cpu_hog alive elapsed=166 accumulator=2299252966033980321
+cpu_hog alive elapsed=175 accumulator=1905582248349004184
+cpu_hog alive elapsed=167 accumulator=9133672363712283728
+cpu_hog alive elapsed=168 accumulator=9017875012860521467
+cpu_hog alive elapsed=176 accumulator=7245613432881382455
+cpu_hog alive elapsed=177 accumulator=4874454702608366225
+cpu_hog alive elapsed=169 accumulator=12230647701484123602
+cpu_hog alive elapsed=178 accumulator=4463194528762872042
+cpu_hog alive elapsed=170 accumulator=1682971620972712811
+cpu_hog alive elapsed=179 accumulator=3938968303690848172
+cpu_hog alive elapsed=171 accumulator=15617565335004472858
+cpu_hog alive elapsed=183 accumulator=1139165931341986712
+cpu_hog alive elapsed=175 accumulator=7205648802596314435
+cpu_hog alive elapsed=184 accumulator=15888471995453281582
+cpu_hog alive elapsed=176 accumulator=5300697637838296884
+cpu_hog alive elapsed=177 accumulator=17857064170573526891
+cpu_hog alive elapsed=185 accumulator=9864268027668486961
+cpu_hog alive elapsed=186 accumulator=9082116885344109608
+cpu_hog alive elapsed=178 accumulator=17238069481353310340
+                                                          
