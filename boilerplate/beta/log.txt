@@ -13,3 +13,8 @@ chroot failed: Not a directory
 chroot failed: Not a directory
 chroot failed: Not a directory
 chroot failed: Not a directory
+exec failed: No such file or directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+chroot failed: Not a directory
+exec failed: No such file or directory
