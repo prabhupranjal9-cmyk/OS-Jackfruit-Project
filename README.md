@@ -63,8 +63,8 @@ sudo rmmod monitor
 3. Launch multiple containers (alpha, beta) 
 4. Check running containers using `engine ps` 
 5. View logs using `engine logs alpha` 
-6. Monitor memory behavior using `dmesg | tail` 
-7. Observe CPU usage using `top` 
+6. Observe CPU usage using `top`
+7. Monitor memory behavior using `dmesg | tail`
 8. Stop containers using `engine stop` 
 9. Verify no zombie processes using `ps aux | grep defunct` 
 
@@ -107,14 +107,14 @@ Shows container stop and update.
 
 ---  
 
-### 6. cpu scheduling (top) 
+### 6. CPU Scheduling (top) 
 Shows CPU usage and scheduling behavior. 
 
 ![Memory](boilerplate/images/img6.jpeg) 
 
 ---  
 
-### 7. Memory monitoring 
+### 7. Memory Monitoring 
 Shows soft/hard limit behavior. 
 ![Top](boilerplate/images/img7.jpeg) 
 
