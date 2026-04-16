@@ -7,7 +7,7 @@ PWD := $(shell pwd)
 # toolchain supports it.
 WORKLOAD_LDFLAGS ?= -static
 
-USER_TARGETS := engine cpu_hog io_pulse
+USER_TARGETS := engine memory_hog cpu_hog io_pulse
 
 all: $(USER_TARGETS) module
 
