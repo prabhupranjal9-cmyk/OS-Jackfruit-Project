@@ -107,16 +107,15 @@ Shows container stop and update.
 
 ---  
 
-### 6. Memory Monitoring  
-Shows soft/hard limit behavior. 
+### 6. cpu scheduling (top) 
+Shows CPU usage and scheduling behavior. 
 
 ![Memory](boilerplate/images/img6.jpeg) 
 
 ---  
 
-### 7. CPU Scheduling (top)  
-Shows CPU usage and scheduling behavior. 
-
+### 7. Memory monitoring 
+Shows soft/hard limit behavior. 
 ![Top](boilerplate/images/img7.jpeg) 
 
 ---  
